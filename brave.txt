@@ -15,3 +15,5 @@ motos.espirituracer.com###popmake-44327
 ##.qc-cmp-cleanslate
 ##.qc-cmp-cleanslate
 ##.qc-cmp2-container
+
+www.xatakandroid.com##.article-asset-video.article-asset-normal
