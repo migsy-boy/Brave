@@ -4,7 +4,7 @@ www.marca.com##.ue-c-video-player-frame.ue-c-video-player-frame--pip
 
 www.marca.com##.uestudio-900
 
-www.marca.com##.mwEmbedPlayer
+www.marca.com##.full-video
 
 www.xatakandroid.com##.article-asset-video.article-asset-normal
 
