@@ -6,16 +6,22 @@ www.marca.com##.uestudio-900
 
 www.marca.com##mwEmbedPlayer
 
+www.xatakandroid.com##.article-asset-video.article-asset-normal
+
 www.elmundo.es##.ue-c-video-player-frame.ue-c-video-player-frame--pip
 
-imasdk.googleapis.com##.didomi-exterior-border
-
-didomi-popup__exterior-border
+imasdk.googleapis.com##.didomi-exterior-border didomi-popup__exterior-border
 
 motos.espirituracer.com###popmake-44327
 
 ##.qc-cmp-cleanslate
+
 ##.qc-cmp-cleanslate
+
 ##.qc-cmp2-container
 
-www.xatakandroid.com##.article-asset-video.article-asset-normal
+gtm-orn.viatorinc.com###googleOneTapContainer
+
+www.viator.com###googleOneTapContainer
+
+accounts.google.com###googleOneTapContainer
