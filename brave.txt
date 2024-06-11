@@ -1,12 +1,13 @@
 www.marca.com###banda_suscripcion
-
 www.marca.com##.ue-c-video-player-frame.ue-c-video-player-frame--pip
-
 www.marca.com##.uestudio-900
-
 www.marca.com##.full-video
+www.marca.com##.video-player__overlay
+www.marca.com##.video-player__default-player
 
 www.xatakandroid.com##.article-asset-video.article-asset-normal
+
+applesfera.com##.js-dailymotion
 
 www.elmundo.es##.ue-c-video-player-frame.ue-c-video-player-frame--pip
 
@@ -15,11 +16,8 @@ imasdk.googleapis.com##.didomi-exterior-border didomi-popup__exterior-border
 motos.espirituracer.com###popmake-44327
 
 ##.qc-cmp-cleanslate
-
 ##.qc-cmp-cleanslate
-
 ##.qc-cmp2-container
-
 gtm-orn.viatorinc.com###googleOneTapContainer
 
 www.viator.com###googleOneTapContainer
