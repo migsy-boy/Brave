@@ -23,3 +23,5 @@ gtm-orn.viatorinc.com###googleOneTapContainer
 www.viator.com###googleOneTapContainer
 
 accounts.google.com###googleOneTapContainer
+
+||player.twitch.tv/js/embed/v1.js
