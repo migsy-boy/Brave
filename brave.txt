@@ -4,6 +4,8 @@ www.marca.com##.uestudio-900
 www.marca.com##.full-video
 www.marca.com##.video-player__overlay
 www.marca.com##.video-player__default-player
+www.marca.com##didomi-host
+www.marca.com##didomi-css
 
 www.xatakandroid.com##.article-asset-video.article-asset-normal
 
