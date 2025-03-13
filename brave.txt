@@ -1,3 +1,9 @@
+! disables video autoplaing?
+##+js(aopr, HTMLMediaElement.prototype.play)
+##+js(aopr, HTMLMediaElement.prototype.autoplay)
+##+js(aopr, AudioContext.prototype.resume)
+##+js(aopr, AudioContext.prototype.play)
+
 www.marca.com###banda_suscripcion
 www.marca.com##.ue-c-video-player-frame.ue-c-video-player-frame--pip
 www.marca.com##.uestudio-900
