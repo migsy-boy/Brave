@@ -4,6 +4,7 @@
 ##+js(aopr, AudioContext.prototype.resume)
 ##+js(aopr, AudioContext.prototype.play)
 
+
 www.marca.com###banda_suscripcion
 www.marca.com##.ue-c-video-player-frame.ue-c-video-player-frame--pip
 www.marca.com##.uestudio-900
@@ -17,6 +18,10 @@ www.marca.com###twitchPlayer
 www.marca.com##*[class*="twitch"]
 www.marca.com##+js(aopr, AudioContext.prototype.resume)
 www.marca.com##+js(aopr, AudioContext.prototype.play)
+www.marca.com##.qc-cmp-cleanslate
+www.marca.com##.qc-cmp-cleanslate
+www.marca.com##.qc-cmp2-container
+
 
 
 www.xatakandroid.com##.article-asset-video.article-asset-normal
@@ -28,10 +33,6 @@ www.elmundo.es##.ue-c-video-player-frame.ue-c-video-player-frame--pip
 imasdk.googleapis.com##.didomi-exterior-border didomi-popup__exterior-border
 
 motos.espirituracer.com###popmake-44327
-
-www.marca.com##.qc-cmp-cleanslate
-www.marca.com##.qc-cmp-cleanslate
-www.marca.com##.qc-cmp2-container
 
 gtm-orn.viatorinc.com###googleOneTapContainer
 
@@ -66,3 +67,4 @@ imasdk.googleapis.com###dailymotion-pip-large-viewport
 www.xatakamovil.com###dailymotion-pip-large-viewport
 
 geo.dailymotion.com###dailymotion-pip-large-viewport
+granada.hammamalandalus.com###cookie-law-info-bar
