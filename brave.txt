@@ -7,6 +7,10 @@ www.marca.com##.video-player__default-player
 www.marca.com##+js(nano-stb, player.twitch.tv)
 www.marca.com##iframe[src*="player.twitch.tv"]
 www.marca.com##div[id^="twitchPlayer_"]
+www.marca.com###twitchPlayer
+www.marca.com##*[class*="twitch"]
+www.marca.com##+js(aopr, AudioContext.prototype.resume)
+www.marca.com##+js(aopr, AudioContext.prototype.play)
 
 
 www.xatakandroid.com##.article-asset-video.article-asset-normal
